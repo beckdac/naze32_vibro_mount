@@ -28,8 +28,8 @@ naze32MountHoleD = 3;
 /* [naze32MountPlate] */
 naze32AccessCutoutWidth = naze32MountHoleSep - 2 * naze32MountHoldD;
 naze32MountPlateWidth = ;
-naze32MountPlateHoleSep = ; // holes for ear plugs into f450 plate
-naze32MountPlateHoleD = ;
+naze32MountPlateHoleSep = ;     // holes for ear plugs into f450 plate
+naze32MountPlateHoleD = 5;      // holes to fit plugs, add a little superglue
 
 /* [earplug] */
 
