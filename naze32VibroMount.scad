@@ -34,9 +34,9 @@ naze32MountPlateHoleD = 5;      // holes to fit plugs, add a little superglue
 /* [earplug] */
 
 /* [f450MountPlate] */
-f450MountPlateWidth = ;
-f450MountPlateHoleSep = ;
-f450MountPlateHoleD = ;
+f450MountPlateHoleSep = 63.5;
+f450MountPlateHoleD = 4;
+f450MountPlateWidth = f450MountPlateHoleSep + 2 * f450MountPlateHoleD;
 
 render_part();
 
